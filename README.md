@@ -79,6 +79,11 @@ HeartDiseasePrediction/
 Inspired by open-source contributions and healthcare research on predictive analytics.
 
 
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## 🙋‍♂️ Author
 
 Kardam Singhal  
