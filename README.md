@@ -77,3 +77,10 @@ HeartDiseasePrediction/
 ## 🙌 Acknowledgments
 
 Inspired by open-source contributions and healthcare research on predictive analytics.
+
+
+## 🙋‍♂️ Author
+
+Kardam Singhal  
+🔗 [LinkedIn](https://www.linkedin.com/in/kardamsinghal)  
+📫 Email: kardamsinghalllll@gmail.com
